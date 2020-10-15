@@ -1,7 +1,14 @@
 )configure the mysql data from the productfilters.sql file in the currentfolder
+
+
 2)change the env file
+
+
+
 3)http://localhost:8000/productlist 
   is the guest file
+  
+  
 
 4)http://localhost/login
 is the admin panel login file
